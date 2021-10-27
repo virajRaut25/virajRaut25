@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @virajRaut25
 - 👀 I’m interested in learning most popular and new programming languages
-- 🌱 I’m currently learning c,c++.
+- 🌱 Language C,C++,Java
+- Learning Python
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
