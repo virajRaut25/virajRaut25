@@ -19,7 +19,7 @@
 <a href="https://twitter.com/thevirajraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thevirajraut" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/viraj-raut-a65ab3205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viraj-raut-a65ab3205" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/virajvraut2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="virajvraut2002" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/viraj2502" target="blank"><img align="center" style="filter: invert(1)" src="https://cdn-images-1.medium.com/max/1200/1*GBKyd4E7j0cbo5J___dTwQ.png" alt="viraj2502" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/viraj2502" target="blank"><img align="center" src="https://m607stars.github.io/portfolio-website/Assets/codechef.png" alt="viraj2502" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
