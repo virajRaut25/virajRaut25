@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/thevirajraut" target="blank"><img src="https://img.shields.io/twitter/follow/thevirajraut?logo=twitter&style=for-the-badge" alt="thevirajraut" /></a> </p>
 
-- 🔭 I’m currently working on [Online Reservation System](https://github.com/virajRaut25/eBus_Reservation_Sys)
+- 🔭 I’m currently working on [Social Media Analytics](https://github.com/virajRaut25/social-media-analytics)
 
 - 🌱 I’m currently learning **Machine Learning**
 
